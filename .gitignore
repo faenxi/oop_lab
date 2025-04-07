@@ -1,0 +1,31 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.VC.db
+*.VC.opendb
+*.ipch
+*.obj
+*.pdb
+*.log
+*.tlog
+*.idb
+*.ilk
+*.cache
+*.aps
+*.ncb
+*.sdf
+*.opensdf
+
+# Output directories
+Debug/
+Release/
+x64/
+x86/
+
+# Інше
+*.exe
+*.dll
+*.tmp
+*.bak
+*.zip
